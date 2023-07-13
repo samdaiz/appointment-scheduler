@@ -2,8 +2,11 @@
 Title: Customer Appointment Scheduler
 ----------------------------------------------------------
 Author: Samuel Diaz
+
 Contact Information: ----
+
 Student application version: 1
+
 Date: 07-01-2023
 ----------------------------------------------------------
 Purpose: Manage both customers and appointments through an interactive UI that connects to the business database.
