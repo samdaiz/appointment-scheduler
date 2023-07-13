@@ -2,7 +2,7 @@
 Title: Customer Appointment Scheduler
 ----------------------------------------------------------
 Author: Samuel Diaz
-Contact Information: sdiaz64@wgu.edu
+Contact Information: ----
 Student application version: 1
 Date: 07-01-2023
 ----------------------------------------------------------
